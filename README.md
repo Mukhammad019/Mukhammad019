@@ -37,7 +37,7 @@
 
 <div>
     <a target="_blank" href="https://t.me/kkk019"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="Telegram"/></a>
-    <a target="_blank" href="2016kosumov@mail.ru"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail.Ru&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=" alt="Mail"/></a>
+    <a target="_blank" href="mailto:2016kosumov@mail.ru"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail.Ru&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=" alt="Mail"/></a>
   <a href="https://wa.me/79899049324">
     <img src="https://img.shields.io/badge/WhatsApp-0a0c10?style=for-the-badge&logo=whatsapp&logoColor=green" alt="wa">
 </a>
