@@ -1,4 +1,4 @@
-## Frontend-developer
+## Frontend-разработчик
 
 <br>
 
@@ -33,7 +33,7 @@
 
 <br>
 
-### ☎️ Contact:
+### ☎️ Контакты:
 
 <div>
     <a target="_blank" href="https://t.me/kkk019"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="Telegram"/></a>
